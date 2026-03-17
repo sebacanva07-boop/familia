@@ -1,0 +1,7 @@
+{
+  "name": "TareasFamilia",
+  "description": "Una aplicación gamificada para organizar las tareas del hogar en familia con alegría.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
